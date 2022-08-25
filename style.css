@@ -1,0 +1,299 @@
+*{margin: 0px; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-decoration: none; list-style: none;}
+
+.header{background-image: url(../project/img/gym-url.jpg); height: 130vh; background-size: cover; }
+.container{width: 90%; margin: 0px auto;}
+.menu{background: rgba(10, 10, 10, 0.9); height: 180px;}
+.top-header{text-align: right; width: 70%; justify-content: end; margin-left: 455px;background-color:#a6c311; padding: 5px; clip-path: polygon(1% 0, 100% 0%, 100% 100%, 5% 100%);}
+.top-header p{margin-right: 100px;}
+.list img,ul ,a{justify-content: space-between;}
+.header .list{ display: flex;  margin-top: 50px; align-items: center; margin-bottom: 20px; }
+.list ul li,a{display: inline; justify-content: space-between; padding:14px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  color: white; }
+
+/******************************/
+ .img .container-1{width: 80%; height: 230px; margin:0px 170px; position: relative; bottom: 150px;}
+
+ /****************************************************************/
+
+.video{ height: 500px; margin-bottom: 70px;}
+.center-top h1{text-align: center;}
+.row-icon-1{width: 75%; margin: auto; display: flex;flex-direction: row; flex-wrap: wrap;padding-top: 50px;}
+.col-3{width: 45%; height: 170px;margin: 15px 26px; border: 3px solid rgb(211, 205, 205); padding: 8px 40px;}
+.card-video {display: flex; }
+.text-box h2{color: black;}
+
+ /****************************************************************/
+
+.gym-14{background-color: #a6c311; height: 470px; margin-bottom: 70px; margin-top: 50px;}
+.widt{width: 70%;padding: 10px; margin: auto;display:flex; color: white;}
+.gym-14 .free{padding: 70px 30px;line-height: 30px;}
+.gym-14 .free .free1{width: 350px;}
+.free1{margin-bottom: 30px;}
+ /*****************************************/
+ 
+ .daliy{width: 78% ;  margin: auto; height: 900px; margin-top: 0px;}
+.row-a1{ display: flex;flex-direction: row; justify-content: space-between;}
+.col-4a{width: 40%;  height: 750px; line-height: 30px; border: 1px solid rgb(245, 238, 238); margin-left: 10px; margin-bottom: 50px;}
+.img-a1  p{margin-left: 20px; color: rgb(155, 152, 152); font-size: medium;}
+.chest{display: flex; margin: 0px 20px; padding: 5px;}
+.img-a1{text-align: left;}
+.img-a1 img{width: 100%; height: 300px;}
+.img-a1  h4{margin-left: 10px; line-height: 25px; margin-bottom: 8px; padding: 0px 15px;}
+.img-a1 button{background-color:black; color: white; padding: 22px 80px; margin-left: 24px;  margin-top: 20px; font-size: 18px; background-color:#a6c311;border: none; }
+ /***************************************/
+
+.card{width: 80%;  margin: auto; height: 830px; margin-top: 0px;}
+.row-1{ display: flex;flex-direction: row; justify-content: space-between;}
+.col-4{width:40%;  height: 670px; line-height: 30px; border: 1px solid rgb(245, 238, 238); margin-left: 10px; margin-bottom: 50px;}
+.img-1  p{margin-left: 20px; color: rgb(155, 152, 152); font-size: medium;}
+.gym{display: flex; margin: 0px 20px; padding: 5px;}
+.img-1{text-align: left;}
+.img-1 img{width: 100%; height: 300px;}
+.img-1  h4{margin-left: 10px; line-height: 25px; margin-bottom: 8px; padding: 0px 15px;}
+.img-1 button{background-color:black; color: white; padding: 13px 12px; margin-left: 35px;  margin-top: 30px; font-size: 13px; background-color:black;border: none; color: white; font-size: 18px; }
+.img-1 #btn{background-color:black; color: white; padding: 13px 25px; margin-left: 40px;  margin-top: 30px; font-size: 13px; background-color:#a6c311;border: none; color: white;  font-size: 18px; }
+/***********************************************/ 
+.url{background-image: url(../project/img/gym-10.jpg);
+     width: 100%;
+     height: 600px;
+    }
+
+    .top-text{
+    width: 90%;
+    height: 300px;
+    margin: auto;
+    padding: 100px;
+    color: white;
+    }
+
+    .top-text h1{
+        font-size: 50px;
+        margin-top:50px;
+        margin-bottom: 18;
+    }
+.top-icon{
+    float: left; 
+    margin-top: 10px;
+} 
+
+.top-text p{
+    margin-right: 540px;
+    margin-top: 20px;
+    line-height: 30px;
+
+}
+
+.btn #btn-1, #btn-2{
+    color: white;
+}
+
+.btn #btn-1{
+    padding: 13px 30px;
+    font-size: 17px; 
+    margin-top: 50px; 
+    margin-left: 11%;
+    font-weight: bold;
+    background-color: black;
+}
+
+.btn #btn-2{
+    padding: 13px 30px; 
+    font-size: 17px; 
+    background-color:#a6c311;
+    font-weight: bold;
+}
+
+/**********************************/
+.top-box{width: 80%; margin: auto; height: 750px;}
+.col{
+    width: 22.3%;
+    height: 560px;
+    float: left;
+    border: 1px solid rgb(250, 243, 243); 
+    margin-left: 28px;
+}
+
+.dumb-icon{
+    display: flex;
+}
+
+.col img{
+    width: 270px; 
+    height: 300px; }
+
+.dumb-icon i{
+    margin-left: 20px;
+    margin-top: 14px; 
+    border: 1px solid rgb(230, 217, 217); 
+    color: #a6c311; 
+    background-color: rgb(235, 226, 226); 
+    padding: 8px 8px;
+}
+
+.head-text p{
+    margin-bottom: 20px; 
+    color:#a6c311 ;
+    padding: 0px 10px;
+}
+
+.head-text h2{
+    padding: 0px 10px;
+}
+
+.head-text span{
+    color: rgb(165, 158, 158);     
+}
+    
+.head-text a i{
+    background:#a6c311; 
+    padding: 7px; 
+    border-radius: 100%;  
+    margin-right: 5px;
+   color: white;  
+}
+
+/*******************************************/
+
+.plan{  background-color: #a6c311; width: 100%; height: 650px;  }
+.plan-2{width: 90%; display: flex; margin: auto; padding: 80px 80px; }
+.mob-img img{text-align: left;}
+.google h1{font-size: 70px; font-family: 'Inter', sans-serif; }
+.google{margin: 0px  30px; color: white; }
+.flot i{float: left; margin: 12px; font-size: 15px;}
+.google p{line-height: 30px;}
+
+/***********************************************/
+
+.say{
+    width: 100%;
+    margin:  auto;
+    height: 470px;
+    margin-top: 130px;
+}
+
+.head-top-1{
+    display: flex;
+}
+
+.head-top-1 h1{
+    margin: 20px 50px;
+    width: 50%;
+    margin-left: 150px;
+    
+}
+
+.parctice{
+    width: 50%;
+    margin-left: 100px;
+    margin: 30px;
+    margin-left: 150px;
+}
+
+.parctice h2{
+    margin: 20px 70px;
+    color: black;
+}
+
+.parctice p{
+    margin: 20px 70px;
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.parctice span{
+    margin: 20px 70px;
+    font-size: 25px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex i{
+    margin: 20px;
+}
+/*********************************************/
+.img-sub{
+    background-color: #a6c311;
+    width: 35%;  
+    height: 360px;   
+}
+
+.img-sub img{
+    margin-left: 100px;
+    position: relative;
+    bottom: 50px;
+}
+
+.left-1{
+    display: flex;
+    background-color: rgb(29, 28, 28); 
+    height: 360px;
+}
+
+.input{
+    margin: 80px 100px;
+    line-height: 70px;
+}
+
+.input input{
+    padding: 17px;
+    padding-right: 100px;
+    border: none;
+    background-color: rgb(70, 68, 68);
+    border-radius: 5px;
+    color: rgb(197, 192, 192);
+    margin: 0px 15px;
+}
+
+.input h1, h2{
+    color: white;
+}
+
+.input h1{
+    margin:0px 10px;
+}
+
+.btn-call{
+    display: flex;
+}
+.btn-call #call{
+    margin: 20px 20px;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: #a6c311;
+    color: white;
+    border: none;
+}
+
+.btn-call h2{
+    
+    margin: 10px 15px;
+}
+
+/**********************************************/
+
+.foot{
+    background-color: black;
+    height: 550px;
+    color: white;
+}
+
+.container-foot{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.col-foot{
+    width: 20%;
+}
+
+
+.sec-text{
+ margin: 20px;
+}
+
+.foot-flex  ul li{margin: 12px}
+
+
+
+
